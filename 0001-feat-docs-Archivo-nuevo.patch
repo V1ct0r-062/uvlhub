@@ -1,0 +1,20 @@
+From 59c5174a962423357a930e12da459701b3c1eef3 Mon Sep 17 00:00:00 2001
+From: V1ct0r-062 <vicmartru@alum.us.es>
+Date: Wed, 30 Sep 2026 10:08:09 +0200
+Subject: [PATCH] feat(docs): Archivo nuevo
+
+---
+ archivo_nuevo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo_nuevo.txt
+
+diff --git a/archivo_nuevo.txt b/archivo_nuevo.txt
+new file mode 100644
+index 0000000..2bde2ea
+--- /dev/null
++++ b/archivo_nuevo.txt
+@@ -0,0 +1 @@
++nwfb
+-- 
+2.43.0
+
